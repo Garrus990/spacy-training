@@ -2,7 +2,7 @@
 name = "spacy-tutorial"
 version = "0.1.0"
 description = ""
-authors = ["Szymon Wojciechowski <swojciechowski@altimetrik.com>"]
+authors = ["Szymon Wojciechowski <s.wojciechowski.uam@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
